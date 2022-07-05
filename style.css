@@ -1,5 +1,6 @@
 .game-header{
     text-align: center;
+    
 }
 h1{
     color: red;
@@ -9,6 +10,8 @@ h1{
     height: 50vh;
     position:relative;
     border: 1px solid; 
+    margin: 5% 35% ;
+   
 }
 #floor{
     border:2px solid red;
